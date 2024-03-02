@@ -194,6 +194,7 @@ header .navbar a:hover {
     font-weight: 600;
     color: var(--blacker2);
     margin: 0 0 15px;
+    min-height: 70px;
 }
 .article_text {
     line-height: 24px;
